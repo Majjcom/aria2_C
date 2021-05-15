@@ -1,0 +1,16 @@
+#
+# Copyright (c) 2018-2020 P3TERX <https://p3terx.com>
+#
+# This is free software, licensed under the MIT License.
+# See /LICENSE for more information.
+#
+# https://github.com/P3TERX/aria2.conf
+# File name：aria2.conf
+# Description: Awesome Aria2 configuration file
+# Version: 2020.12.28
+#
+
+## 文件保存设置 ##
+
+# 下载目录。可使用绝对路径或相对路径, 默认: 当前启动位置
+dir=
