@@ -56,62 +56,62 @@
     <ROW Component="APPDIR" ComponentId="{53592B45-C29E-43EC-93FE-E65FEEEF3176}" Directory_="APPDIR" Attributes="0"/>
     <ROW Component="Notepad" ComponentId="{BAE89F5B-043B-49F7-B818-96BB7D385ED1}" Directory_="APPDIR" Attributes="260" KeyPath="Notepad" Options="2"/>
     <ROW Component="ProductInformation" ComponentId="{A6A992CC-6F91-413F-9C31-E549C728D862}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
-    <ROW Component="RunHiddenConsole.exe" ComponentId="{6C58A589-49F6-4B98-AC25-E20293E25E09}" Directory_="Controler_Dir" Attributes="0" KeyPath="RunHiddenConsole.exe"/>
-    <ROW Component="VCRUNTIME140.dll" ComponentId="{AFDC7E57-E61F-4DC9-964B-D600491AB588}" Directory_="check_Dir" Attributes="256" KeyPath="VCRUNTIME140.dll"/>
-    <ROW Component="_psutil_windows.cp37win_amd64.pyd" ComponentId="{883D0F57-2A38-4AA8-AAFE-DC7B48607315}" Directory_="psutil_Dir" Attributes="256" KeyPath="_psutil_windows.cp37win_amd64.pyd" Type="0"/>
-    <ROW Component="angularpackages1.6.10.min.js" ComponentId="{9E16D56C-F418-45EF-B1E6-BC5C9ACFC970}" Directory_="js_Dir" Attributes="0" KeyPath="angularpackages1.6.10.min.js" Type="0"/>
-    <ROW Component="apimswincoreconsolel110.dll" ComponentId="{D37FE5E1-43E1-4A41-9570-5E1B4860A844}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreconsolel110.dll"/>
-    <ROW Component="apimswincoredatetimel110.dll" ComponentId="{B3DB2E1A-3689-4258-8824-80F47F8BCE56}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoredatetimel110.dll"/>
-    <ROW Component="apimswincoredebugl110.dll" ComponentId="{8CABFF1B-AC82-470A-A349-3DB19EC376D7}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoredebugl110.dll"/>
-    <ROW Component="apimswincoreerrorhandlingl110.dll" ComponentId="{8EFFB073-93A1-4EC5-B9DC-FB34720451B4}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreerrorhandlingl110.dll"/>
-    <ROW Component="apimswincorefilel110.dll" ComponentId="{13BB4533-4A9F-47C9-A3D9-2E787006A392}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorefilel110.dll"/>
-    <ROW Component="apimswincorefilel120.dll" ComponentId="{7ED20A05-7968-4AF8-A1B7-B25953CAAC1B}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorefilel120.dll"/>
-    <ROW Component="apimswincorefilel210.dll" ComponentId="{8512A324-79F0-44C1-9BEC-CB052EAAFB30}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorefilel210.dll"/>
-    <ROW Component="apimswincorehandlel110.dll" ComponentId="{F8A0A83E-A62C-45FF-B9E3-40761A28EFF8}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorehandlel110.dll"/>
-    <ROW Component="apimswincoreheapl110.dll" ComponentId="{6C30532C-E95D-4582-8855-AF9CC7F73D2B}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreheapl110.dll"/>
-    <ROW Component="apimswincoreinterlockedl110.dll" ComponentId="{A0FAB6E4-1317-45C4-ACF9-477C001CE555}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreinterlockedl110.dll"/>
-    <ROW Component="apimswincorelibraryloaderl110.dll" ComponentId="{44FDE141-B413-48B1-80BD-5A41950E79C1}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorelibraryloaderl110.dll"/>
-    <ROW Component="apimswincorelocalizationl120.dll" ComponentId="{05A48B8A-D4C9-4ED9-95CC-A5FCFC5E4D57}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorelocalizationl120.dll"/>
-    <ROW Component="apimswincorememoryl110.dll" ComponentId="{79E10D1A-49C8-40AB-AC52-4CB4E334D46E}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorememoryl110.dll"/>
-    <ROW Component="apimswincorenamedpipel110.dll" ComponentId="{7563680F-9D4C-424B-B956-75F077F40F0A}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorenamedpipel110.dll"/>
-    <ROW Component="apimswincoreprocessenvironmentl110.dll" ComponentId="{DA99FFC5-847C-414F-9A05-6D8268B8F79D}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprocessenvironmentl110.dll"/>
-    <ROW Component="apimswincoreprocessthreadsl110.dll" ComponentId="{558D4C01-C699-475E-AB8C-8007C1FB1A98}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprocessthreadsl110.dll"/>
-    <ROW Component="apimswincoreprocessthreadsl111.dll" ComponentId="{4089D4B8-F9D2-432C-BAE4-B1AE67474616}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprocessthreadsl111.dll"/>
-    <ROW Component="apimswincoreprofilel110.dll" ComponentId="{C0AFD316-0445-41B9-9AA1-4F87DDBE16C8}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprofilel110.dll"/>
-    <ROW Component="apimswincorertlsupportl110.dll" ComponentId="{800F6C0E-9368-49AA-8B06-6384E148A694}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorertlsupportl110.dll"/>
-    <ROW Component="apimswincorestringl110.dll" ComponentId="{033E9A2F-2BE4-46B8-B33E-7EF632650FE1}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorestringl110.dll"/>
-    <ROW Component="apimswincoresynchl110.dll" ComponentId="{B8703A8F-9FF5-491E-A731-8CEED9A3C1CE}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoresynchl110.dll"/>
-    <ROW Component="apimswincoresynchl120.dll" ComponentId="{B41C11F7-B570-4D07-B8E9-E8C87EC00D4B}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoresynchl120.dll"/>
-    <ROW Component="apimswincoresysinfol110.dll" ComponentId="{4B7ABD61-FAA8-43E2-A306-8470002BF4F9}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoresysinfol110.dll"/>
-    <ROW Component="apimswincoretimezonel110.dll" ComponentId="{9D51D28E-3007-48A2-84CB-17176731711F}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoretimezonel110.dll"/>
-    <ROW Component="apimswincoreutill110.dll" ComponentId="{C2B7DF2E-C98F-4130-826E-DA58E905AE36}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreutill110.dll"/>
-    <ROW Component="apimswincrtconiol110.dll" ComponentId="{CB49DD8D-0637-42F0-989F-2537A9BF7338}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtconiol110.dll"/>
-    <ROW Component="apimswincrtconvertl110.dll" ComponentId="{BAF97B2D-D96F-463D-861C-4DD155E591AF}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtconvertl110.dll"/>
-    <ROW Component="apimswincrtenvironmentl110.dll" ComponentId="{50429D52-A7D8-4EE3-9105-A53F1F6B3245}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtenvironmentl110.dll"/>
-    <ROW Component="apimswincrtfilesysteml110.dll" ComponentId="{6700CFEA-954C-4947-8E1D-30A7DC6B4AAF}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtfilesysteml110.dll"/>
-    <ROW Component="apimswincrtheapl110.dll" ComponentId="{98E9F721-F565-4644-8DA2-7E53295B59FC}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtheapl110.dll"/>
-    <ROW Component="apimswincrtlocalel110.dll" ComponentId="{47600008-2412-491F-A51E-39C1274706EC}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtlocalel110.dll"/>
-    <ROW Component="apimswincrtmathl110.dll" ComponentId="{42F0820C-D8AE-4FDA-92C5-A84E1CA5CBD4}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtmathl110.dll"/>
-    <ROW Component="apimswincrtprocessl110.dll" ComponentId="{DF26FAD5-CE3F-449B-A122-D2880BCB383B}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtprocessl110.dll"/>
-    <ROW Component="apimswincrtruntimel110.dll" ComponentId="{42CEB29E-412F-486F-BE7D-54B0B41528CD}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtruntimel110.dll"/>
-    <ROW Component="apimswincrtstdiol110.dll" ComponentId="{253D6814-C4C2-4A12-8087-15EE716E35F0}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtstdiol110.dll"/>
-    <ROW Component="apimswincrtstringl110.dll" ComponentId="{2BAEF11E-3075-47FA-9C41-4D65C6760E9F}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtstringl110.dll"/>
-    <ROW Component="apimswincrttimel110.dll" ComponentId="{E6E71017-F4E5-45C8-B8F6-15AAB231CF4D}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrttimel110.dll"/>
-    <ROW Component="apimswincrtutilityl110.dll" ComponentId="{27F0DC35-92B8-418B-9AD4-2EAB0FF840D5}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtutilityl110.dll"/>
-    <ROW Component="aria2.session" ComponentId="{3AAE28A7-8787-495B-9D94-4A3CF510519C}" Directory_="aria21.35.0win64bitbuild1_Dir" Attributes="0" KeyPath="aria2.session" Type="0"/>
-    <ROW Component="aria2_C.exe" ComponentId="{5A56C56E-1B5A-4348-A108-58DC3E44ECAC}" Directory_="Controler_Dir" Attributes="0" KeyPath="aria2_C.exe"/>
-    <ROW Component="aria2c.exe" ComponentId="{9654775A-2168-4BE9-9A73-4FA9DD7B0650}" Directory_="aria21.35.0win64bitbuild1_Dir" Attributes="256" KeyPath="aria2c.exe"/>
-    <ROW Component="ariang1bfa53e627.min.css" ComponentId="{0A663615-6115-4BF9-AA26-1D69BFDE7E3A}" Directory_="css_Dir" Attributes="0" KeyPath="ariang1bfa53e627.min.css" Type="0"/>
-    <ROW Component="base_library.zip" ComponentId="{1A608E05-17B9-483C-B9E6-5B4DC438862D}" Directory_="check_Dir" Attributes="0" KeyPath="base_library.zip" Type="0"/>
-    <ROW Component="check.exe" ComponentId="{4968C7D9-6395-4821-8ED6-F218883DE725}" Directory_="check_Dir" Attributes="256" KeyPath="check.exe"/>
-    <ROW Component="example.mp4" ComponentId="{422F3D24-780F-401F-BB6E-7296A9C22E49}" Directory_="Controler_Dir" Attributes="0" KeyPath="example.mp4" Type="0"/>
-    <ROW Component="favicon.ico" ComponentId="{0F3DCB16-7A1E-4FF2-948A-48A6AC8F7596}" Directory_="AriaNg1.2.1_Dir" Attributes="0" KeyPath="favicon.ico" Type="0"/>
-    <ROW Component="fontawesomewebfont.eot" ComponentId="{3D609B70-071C-459A-AE1D-190EC721B661}" Directory_="fonts_Dir" Attributes="0" KeyPath="fontawesomewebfont.eot" Type="0"/>
-    <ROW Component="libcrypto1_1.dll" ComponentId="{0281AF6C-3A6A-4E91-BF0C-D305660539E5}" Directory_="check_Dir" Attributes="256" KeyPath="libcrypto1_1.dll"/>
-    <ROW Component="libssl1_1.dll" ComponentId="{1CE1C72B-FC1A-4E02-AB1A-0BF5CC97668D}" Directory_="check_Dir" Attributes="256" KeyPath="libssl1_1.dll"/>
-    <ROW Component="python37.dll" ComponentId="{6A79DBB1-D1E6-4975-9EEF-4B2B899B0239}" Directory_="check_Dir" Attributes="256" KeyPath="python37.dll"/>
-    <ROW Component="ucrtbase.dll" ComponentId="{D49B1FFD-B3F0-4608-8D2E-2B31F849A1E9}" Directory_="check_Dir" Attributes="256" KeyPath="ucrtbase.dll"/>
-    <ROW Component="zh_Hans.txt" ComponentId="{796D2AD3-AB74-4565-8373-9372018CD8B4}" Directory_="langs_Dir" Attributes="0" KeyPath="zh_Hans.txt" Type="0"/>
+    <ROW Component="RunHiddenConsole.exe" ComponentId="{98F20F53-8081-4FD9-83B4-5212178E7616}" Directory_="Controler_Dir" Attributes="0" KeyPath="RunHiddenConsole.exe"/>
+    <ROW Component="VCRUNTIME140.dll" ComponentId="{8905F6D5-EEEA-4FC1-8806-64A8142FEC7B}" Directory_="check_Dir" Attributes="256" KeyPath="VCRUNTIME140.dll"/>
+    <ROW Component="_psutil_windows.cp37win_amd64.pyd" ComponentId="{E89D3842-0F03-4267-878F-DFB811F11E56}" Directory_="psutil_Dir" Attributes="256" KeyPath="_psutil_windows.cp37win_amd64.pyd" Type="0"/>
+    <ROW Component="angularpackages1.6.10.min.js" ComponentId="{B200FBA1-73FB-418B-8FC3-322ECCD4B7BA}" Directory_="js_Dir" Attributes="0" KeyPath="angularpackages1.6.10.min.js" Type="0"/>
+    <ROW Component="apimswincoreconsolel110.dll" ComponentId="{3F05D3AF-2F0B-44B5-921A-1B906BD4F1E5}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreconsolel110.dll"/>
+    <ROW Component="apimswincoredatetimel110.dll" ComponentId="{48F8EBFF-8CC4-45FA-B772-3E69A3DDCF00}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoredatetimel110.dll"/>
+    <ROW Component="apimswincoredebugl110.dll" ComponentId="{5C8E4970-3FA9-451A-8D71-15E597F166AE}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoredebugl110.dll"/>
+    <ROW Component="apimswincoreerrorhandlingl110.dll" ComponentId="{4AADD92B-CD8C-42BF-8517-C7ED65883CAC}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreerrorhandlingl110.dll"/>
+    <ROW Component="apimswincorefilel110.dll" ComponentId="{9E4EBF46-5E08-4A6E-BEE7-CF3647F044FB}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorefilel110.dll"/>
+    <ROW Component="apimswincorefilel120.dll" ComponentId="{9857C341-5003-42AD-91F9-D1AC63AF31F7}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorefilel120.dll"/>
+    <ROW Component="apimswincorefilel210.dll" ComponentId="{79AC10F3-BC96-40AB-B621-838BE66AEBC9}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorefilel210.dll"/>
+    <ROW Component="apimswincorehandlel110.dll" ComponentId="{1A473500-4202-43D9-BD6A-2487CA459A89}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorehandlel110.dll"/>
+    <ROW Component="apimswincoreheapl110.dll" ComponentId="{F842D0C3-B61C-4D97-ADDE-988B401A34D1}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreheapl110.dll"/>
+    <ROW Component="apimswincoreinterlockedl110.dll" ComponentId="{5F3688C6-50AD-44D2-A3B5-D657313C2814}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreinterlockedl110.dll"/>
+    <ROW Component="apimswincorelibraryloaderl110.dll" ComponentId="{4EC42398-9555-4B40-A230-B8E4B8D308C7}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorelibraryloaderl110.dll"/>
+    <ROW Component="apimswincorelocalizationl120.dll" ComponentId="{32DEB234-8816-4B7C-99D0-230068EF312C}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorelocalizationl120.dll"/>
+    <ROW Component="apimswincorememoryl110.dll" ComponentId="{11F27D52-8B6F-427A-904D-580854661F8A}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorememoryl110.dll"/>
+    <ROW Component="apimswincorenamedpipel110.dll" ComponentId="{A710AE5B-A6DE-4307-89F7-BC08B50079F1}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorenamedpipel110.dll"/>
+    <ROW Component="apimswincoreprocessenvironmentl110.dll" ComponentId="{D464187C-0114-4DBE-BD04-46AC087A022A}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprocessenvironmentl110.dll"/>
+    <ROW Component="apimswincoreprocessthreadsl110.dll" ComponentId="{5BC49885-0539-4263-A277-42859B878F53}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprocessthreadsl110.dll"/>
+    <ROW Component="apimswincoreprocessthreadsl111.dll" ComponentId="{209BA45F-FBC1-4875-89CB-54BF969029A0}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprocessthreadsl111.dll"/>
+    <ROW Component="apimswincoreprofilel110.dll" ComponentId="{2ED35F3B-7E6D-4264-AA62-FC3961436625}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreprofilel110.dll"/>
+    <ROW Component="apimswincorertlsupportl110.dll" ComponentId="{34F56E05-DAE1-4D06-94BE-FAFC65498DD7}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorertlsupportl110.dll"/>
+    <ROW Component="apimswincorestringl110.dll" ComponentId="{45A0FDDF-2603-40C4-B51A-6020AF9181E9}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincorestringl110.dll"/>
+    <ROW Component="apimswincoresynchl110.dll" ComponentId="{406F04B2-E61C-4AFA-8A87-FACDC85E40E2}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoresynchl110.dll"/>
+    <ROW Component="apimswincoresynchl120.dll" ComponentId="{0BD74528-B819-4786-BCB3-2C6BAA2AAD3E}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoresynchl120.dll"/>
+    <ROW Component="apimswincoresysinfol110.dll" ComponentId="{DB76E0AB-B80A-4CFA-B52B-F101FE1D72CC}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoresysinfol110.dll"/>
+    <ROW Component="apimswincoretimezonel110.dll" ComponentId="{913B33E0-2665-426B-ABF0-1F078A7B06C8}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoretimezonel110.dll"/>
+    <ROW Component="apimswincoreutill110.dll" ComponentId="{689D491C-947E-4CC8-9D00-FE5BE5ACC1B2}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincoreutill110.dll"/>
+    <ROW Component="apimswincrtconiol110.dll" ComponentId="{D96967A7-94F1-4D94-9828-4D85AF127132}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtconiol110.dll"/>
+    <ROW Component="apimswincrtconvertl110.dll" ComponentId="{778126DD-B868-43AF-BABC-98729F116852}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtconvertl110.dll"/>
+    <ROW Component="apimswincrtenvironmentl110.dll" ComponentId="{9E0CC406-C96E-4664-ACD2-A9556B058D05}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtenvironmentl110.dll"/>
+    <ROW Component="apimswincrtfilesysteml110.dll" ComponentId="{2B29F580-EC9A-4663-8EB2-805FE0EAE7B0}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtfilesysteml110.dll"/>
+    <ROW Component="apimswincrtheapl110.dll" ComponentId="{1DAA56FC-9BCE-4E6E-A5A9-CE4182359971}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtheapl110.dll"/>
+    <ROW Component="apimswincrtlocalel110.dll" ComponentId="{8AAB650D-7EA0-4D36-9400-414F39317545}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtlocalel110.dll"/>
+    <ROW Component="apimswincrtmathl110.dll" ComponentId="{1DE5996C-7119-4192-A393-2D9B2AFDC7F8}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtmathl110.dll"/>
+    <ROW Component="apimswincrtprocessl110.dll" ComponentId="{B9DA0CE3-0974-40AD-9FFE-EA27265A8BE9}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtprocessl110.dll"/>
+    <ROW Component="apimswincrtruntimel110.dll" ComponentId="{6F81EF34-5CDF-4087-B0B6-219624AD962A}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtruntimel110.dll"/>
+    <ROW Component="apimswincrtstdiol110.dll" ComponentId="{1BA23EFD-6706-4BF7-A0FE-3F2C377ABAC5}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtstdiol110.dll"/>
+    <ROW Component="apimswincrtstringl110.dll" ComponentId="{D763085D-A532-4482-9C81-B5E41F0AF62B}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtstringl110.dll"/>
+    <ROW Component="apimswincrttimel110.dll" ComponentId="{AAB04567-A895-4422-9B64-704B0AB92C3A}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrttimel110.dll"/>
+    <ROW Component="apimswincrtutilityl110.dll" ComponentId="{7DD9413C-0905-4B86-92C6-0BE091434226}" Directory_="check_Dir" Attributes="256" KeyPath="apimswincrtutilityl110.dll"/>
+    <ROW Component="aria2.session" ComponentId="{7F5AB605-BD70-4A01-958B-BAF733B4890D}" Directory_="aria21.35.0win64bitbuild1_Dir" Attributes="0" KeyPath="aria2.session" Type="0"/>
+    <ROW Component="aria2_C.exe" ComponentId="{53E026F4-0DE7-4BC3-B49F-DE0540BCF884}" Directory_="Controler_Dir" Attributes="0" KeyPath="aria2_C.exe"/>
+    <ROW Component="aria2c.exe" ComponentId="{FB60BC3F-E13D-4DAF-8F90-BD8B64D3AB1E}" Directory_="aria21.35.0win64bitbuild1_Dir" Attributes="256" KeyPath="aria2c.exe"/>
+    <ROW Component="ariang1bfa53e627.min.css" ComponentId="{0C9DA50C-F275-43BC-8EE7-2EFF7B2B9E68}" Directory_="css_Dir" Attributes="0" KeyPath="ariang1bfa53e627.min.css" Type="0"/>
+    <ROW Component="base_library.zip" ComponentId="{018614C7-2390-4801-9ACE-E4F598D16BD0}" Directory_="check_Dir" Attributes="0" KeyPath="base_library.zip" Type="0"/>
+    <ROW Component="check.exe" ComponentId="{29FB979E-8261-4406-B3E0-4B1F3C752AF1}" Directory_="check_Dir" Attributes="256" KeyPath="check.exe"/>
+    <ROW Component="example.mp4" ComponentId="{A94453A5-EF88-4703-AA71-367D2947FFD9}" Directory_="Controler_Dir" Attributes="0" KeyPath="example.mp4" Type="0"/>
+    <ROW Component="favicon.ico" ComponentId="{64F2DD8D-A48B-4C6B-984D-A030A71266D0}" Directory_="AriaNg1.2.1_Dir" Attributes="0" KeyPath="favicon.ico" Type="0"/>
+    <ROW Component="fontawesomewebfont.eot" ComponentId="{B251FB56-F5F8-49AB-B1C6-D6FBE35AA610}" Directory_="fonts_Dir" Attributes="0" KeyPath="fontawesomewebfont.eot" Type="0"/>
+    <ROW Component="libcrypto1_1.dll" ComponentId="{F8F8502F-27AB-4224-A703-8848DBFBBBDC}" Directory_="check_Dir" Attributes="256" KeyPath="libcrypto1_1.dll"/>
+    <ROW Component="libssl1_1.dll" ComponentId="{1BB08B73-7F66-4141-8589-B1F33D73B746}" Directory_="check_Dir" Attributes="256" KeyPath="libssl1_1.dll"/>
+    <ROW Component="python37.dll" ComponentId="{5077977A-957A-41F2-B607-FD96FD6E8B96}" Directory_="check_Dir" Attributes="256" KeyPath="python37.dll"/>
+    <ROW Component="ucrtbase.dll" ComponentId="{C3A43F9A-EB68-4ABF-86EA-FA717E6F17C0}" Directory_="check_Dir" Attributes="256" KeyPath="ucrtbase.dll"/>
+    <ROW Component="zh_Hans.txt" ComponentId="{3E3697D2-3125-451D-AED0-428DF06B3D16}" Directory_="langs_Dir" Attributes="0" KeyPath="zh_Hans.txt" Type="0"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
     <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0"/>
@@ -422,6 +422,8 @@
     <ROW Feature_="MainFeature" Component_="apimswincoresysinfol110.dll"/>
     <ROW Feature_="MainFeature" Component_="apimswincoretimezonel110.dll"/>
     <ROW Feature_="MainFeature" Component_="apimswincoreutill110.dll"/>
+    <ROW Feature_="MainFeature" Component_="AI_ExePath"/>
+    <ROW Feature_="Notepad" Component_="Notepad"/>
     <ROW Feature_="MainFeature" Component_="apimswincrtconiol110.dll"/>
     <ROW Feature_="MainFeature" Component_="apimswincrtconvertl110.dll"/>
     <ROW Feature_="MainFeature" Component_="apimswincrtenvironmentl110.dll"/>
@@ -434,8 +436,6 @@
     <ROW Feature_="MainFeature" Component_="apimswincrtstdiol110.dll"/>
     <ROW Feature_="MainFeature" Component_="apimswincrtstringl110.dll"/>
     <ROW Feature_="MainFeature" Component_="apimswincrttimel110.dll"/>
-    <ROW Feature_="MainFeature" Component_="AI_ExePath"/>
-    <ROW Feature_="Notepad" Component_="Notepad"/>
     <ROW Feature_="MainFeature" Component_="apimswincrtutilityl110.dll"/>
     <ROW Feature_="MainFeature" Component_="base_library.zip"/>
     <ROW Feature_="MainFeature" Component_="check.exe"/>
