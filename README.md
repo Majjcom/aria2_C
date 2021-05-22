@@ -9,7 +9,7 @@
 
 使用了`RunHiddenConsole`来静默运行部分程序
 ## 设置
-下载安装文件[aria2_C_1.1.Installer.exe](https://github.com/Majjcom/aria2_C/releases/download/1.0/aria2_C_1.0.Installer.exe)
+下载安装文件[aria2_C_1.1.Installer.exe](https://github.com/Majjcom/aria2_C/releases/download/1.1/aria2_C_1.1.Installer_x86_64.exe)
 
 双击运行，安装
 
