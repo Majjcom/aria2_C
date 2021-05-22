@@ -1,4 +1,6 @@
 # Aria2下载工具（自制控制器）
+#### 现更新至1.1.2版本
+
 众所周知，Aria2这玩意既好用又不好用
 
 所以，我就自己制作了一个aria2的控制程序
@@ -9,7 +11,7 @@
 
 使用了`RunHiddenConsole`来静默运行部分程序
 ## 设置
-下载安装文件[aria2_C_1.1.Installer.exe](https://github.com/Majjcom/aria2_C/releases/download/1.1/aria2_C_1.1.Installer_x86_64.exe)
+下载安装文件[aria2_C_1.1.Installer.exe](https://github.com/Majjcom/aria2_C/releases/download/1.1.2/aria2_C_1.1.2.Installer_x86_64.exe)
 
 双击运行，安装
 
