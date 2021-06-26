@@ -9,7 +9,6 @@
 
 引用了`aria2`主程序和`AriaNG`网页控制面板
 
-使用了`RunHiddenConsole`来静默运行部分程序
 ## 设置
 下载安装文件[aria2_C_1.3.0.Installer_x86_64.exe](https://github.com/Majjcom/aria2_C/releases/download/1.3.0/aria2_C_1.3.0.Installer_x86_64.exe)
 
@@ -21,11 +20,11 @@
 
 你需要输入几个必须的配置(不要有中文!!!):
 
-`下载路径`
+- `下载路径`
 
-`任务文件路径`
+- `任务文件路径`
 
-`RPC密钥`
+- `RPC密钥`
 
 设置完成后按照视频中的步骤完成最后的配置
 
