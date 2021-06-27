@@ -1,5 +1,6 @@
 # Aria2下载工具（自制控制器）
-#### 现更新至1.3.0版本
+
+#### 现更新至1.3.1版本
 
 众所周知，Aria2这玩意既好用又不好用
 
@@ -10,7 +11,7 @@
 引用了`aria2`主程序和`AriaNG`网页控制面板
 
 ## 设置
-下载安装文件[aria2_C_1.3.0.Installer_x86_64.exe](https://github.com/Majjcom/aria2_C/releases/download/1.3.0/aria2_C_1.3.0.Installer_x86_64.exe)
+下载安装文件[aria2_C_1.3.1.Installer_x86_64.exe](https://github.com/Majjcom/aria2_C/releases/download/1.3.1/aria2_C_1.3.1.Installer_x86_64.exe)
 
 双击运行，安装
 
